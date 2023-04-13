@@ -1,5 +1,5 @@
 ipliste = {
 	["authi"]={
-		["159.146.29.73"]="Sucortagımm#5579 Yeni IP",
+		["159.146.29.73"]="Sucortagımm#5579 Yeni IP"
 	}		
 }
